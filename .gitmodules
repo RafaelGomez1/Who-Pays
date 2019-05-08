@@ -1,0 +1,3 @@
+[submodule "Who-Pays-Backend"]
+	path = Who-Pays-Backend
+	url = https://github.com/RafaelGomez1/Who-Pays-Backend
